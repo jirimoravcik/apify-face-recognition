@@ -1,0 +1,10 @@
+Pillow
+apify-client
+insightface
+opencv-python
+ruff
+python-dotenv
+requests
+unidecode
+numpy
+onnxruntime-silicon
